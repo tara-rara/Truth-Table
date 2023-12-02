@@ -1,2 +1,3 @@
-# Truth-Table
-"Truth Table Generator: A comprehensive collection of algorithms and code snippets for generating truth tables in the field of discrete mathematics. "
+Truth Table Gennerator in Discrete Mathematics:
+
+"Truth Table Generator: A comprehensive collection of algorithms and code snippets for generating truth tables in the field of discrete mathematics. This repository provides a set of functions and utilities that allow users to construct and evaluate truth tables for logical expressions, propositions, and boolean functions. It aims to simplify the process of understanding and analyzing logical operations, enabling students and enthusiasts to explore the fundamental concepts of propositional logic, truth values, logical connectives, and logical equivalences. The code is implemented in a user-friendly and modular manner, making it easy to integrate into existing projects or use as a standalone truth table generator. Enhance your understanding of discrete mathematics and logical reasoning with this powerful toolset."
